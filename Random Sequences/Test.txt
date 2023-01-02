@@ -1,0 +1,49 @@
+Test Data File:C:/Users/dell/Documents/LOL/Report/Notes/random_bits.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency Test (Monobit)                      	0.3096293865493377  	Random
+02. Frequency Test within a Block                 	0.4948803452776355  	Random
+03. Run Test                                      	0.3580782046490356  	Random
+04. Longest Run of Ones in a Block                	0.12262283148241662 	Random
+05. Binary Matrix Rank Test                       	0.1635545472321123	Random
+06. Discrete Fourier Transform (Spectral) Test    	0.3883556927182572  	Random
+07. Non-Overlapping Template Matching Test        	0.5410344127873488  	Random
+08. Overlapping Template Matching Test            	0.13222966770529226 	Random
+09. Maurer's Universal Statistical test           	0.16966691561213743 	Random
+10. Linear Complexity Test                        	0.4136631302432949  	Random
+11. Serial test:
+													0.11335313525300749	Random
+12. Approximate Entropy Test                      	0.04067928139099695 	Random
+13. Cummulative Sums (Forward) Test               	0.4362024820205055  	Random
+14. Cummulative Sums (Reverse) Test               	0.5415817399162756  	Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	6.2128421668276514  	0.2860559642502001  	Random
+				-3        	6.34890212765957    	0.2737338526873501  	Random
+				-2        	1.9325978460730233  	0.8583906190010525  	Random
+				-1        	4.761702127659575   	0.4456490595232191  	Random
+				+1        	3.2212765957446807  	0.665914047499317   	Random
+				+2        	3.863567113212503   	0.5692215682181072  	Random
+				+3        	3.5318536170212775  	0.6185733474884181  	Random
+				+4        	3.853087809157532   	0.5707558125944396  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	216                 	0.8316706816024644  	Random
+				-8.0      	247                 	0.886355005583858   	Random
+				-7.0      	284                 	0.5307463570683184  	Random
+				-6.0      	307                 	0.3166561539626107  	Random
+				-5.0      	323                 	0.1760410081805288  	Random
+				-4.0      	318                 	0.1478860875276569  	Random
+				-3.0      	286                 	0.2927767611428428  	Random
+				-2.0      	265                 	0.424327835126051   	Random
+				-1.0      	254                 	0.380810092625011   	Random
+				+1.0      	206                 	0.18100395250749102 	Random
+				+2.0      	190                 	0.23076009006077058 	Random
+				+3.0      	205                 	0.536013369537822   	Random
+				+4.0      	220                 	0.7936969130373781  	Random
+				+5.0      	233                 	0.975468086140633   	Random
+				+6.0      	241                 	0.9334968437559713  	Random
+				+7.0      	216                 	0.807950462071095   	Random
+				+8.0      	186                 	0.5595019047690477  	Random
+				+9.0      	156                 	0.37680451117895986 	Random

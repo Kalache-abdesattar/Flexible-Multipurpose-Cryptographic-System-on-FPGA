@@ -1,0 +1,32 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate C:\FPGA\adc_control.qsys --block-symbol-file --output-directory=C:\FPGA --family="Cyclone V" --part=5CSXFC6D6F31C6
+Progress: Loading FPGA/adc_control.qsys
+Progress: Reading input file
+Progress: Adding adc_mega_0 [altera_up_avalon_adc_mega 18.0]
+Progress: Parameterizing module adc_mega_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate C:\FPGA\adc_control.qsys --synthesis=VHDL --greybox --output-directory=C:\FPGA\synthesis --family="Cyclone V" --part=5CSXFC6D6F31C6
+Progress: Loading FPGA/adc_control.qsys
+Progress: Reading input file
+Progress: Adding adc_mega_0 [altera_up_avalon_adc_mega 18.0]
+Progress: Parameterizing module adc_mega_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: adc_control: Generating adc_control "adc_control" for QUARTUS_SYNTH
+Info: adc_mega_0: Starting Generation of ADC Controller for DE-series Board
+Info: adc_mega_0: C:/intelfpga_lite/20.1/ip/altera/university_program/input_output/altera_up_avalon_adc/hdl/altera_up_avalon_adv_adc.v C:/Users/dell/AppData/Local/Temp/alt9085_6173741806762648395.dir/0002_sopcgen/adc_control_adc_mega_0.v
+Info: adc_mega_0: "adc_control" instantiated altera_up_avalon_adc_mega "adc_mega_0"
+Info: adc_control: Done "adc_control" with 2 modules, 3 files
+Info: Generating third-party timing and resource estimation model ...
+Info: Done generating third-party timing and resource estimation model.
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis
