@@ -32,22 +32,22 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 
 # Circuit Behaviour 
 
-## Theoretical Lorenz System Behaviour
+### Theoretical Lorenz System Behaviour
 
-### Phase Space Visualization
+#### Phase Space Visualization
 
 ![lorenz-attractor-phase-space](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz-theoretical.PNG)
 
-### Time Dependant Visualization
+#### Time Dependant Visualization
 
 ![lorenz-time](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz-time.png)
 
-## Experimental Lorenz System Behaviour
+### Experimental Lorenz System Behaviour
 
-### Phase Space Visualization
+#### Phase Space Visualization
 
 [![IMAGE ALT TEXT HERE](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/oscillo.jpg)](https://youtu.be/wafvf3TThYw)
 
-### Time Dependant Visualization
+#### Time Dependant Visualization
 
 [![IMAGE ALT TEXT HERE](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/Lorenz-system-time-dependant.jpg)](https://youtu.be/dwXIzn29e0U)
