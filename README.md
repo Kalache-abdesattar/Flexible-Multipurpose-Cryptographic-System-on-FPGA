@@ -39,4 +39,8 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 
 ### Phase Space Visualization
 
+[![IMAGE ALT TEXT HERE](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/Lorenz-system-phase-space.jpg)](https://youtu.be/wafvf3TThYw)
+
 ### Time Dependant Visualization
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/dwXIzn29e0U)
