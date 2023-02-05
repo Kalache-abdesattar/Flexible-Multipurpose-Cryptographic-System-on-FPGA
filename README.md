@@ -14,4 +14,10 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 * Post-processing Unit for True Random Number Generation
 * Key Derivation Function
 
-#Lorenz System Analogue Implementation
+# Lorenz System Analogue Representation 
+**Circuit Diagram :**
+![lorenz-diagram-multisim](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz_circuit.PNG)
+
+**Circuit Implementation :**
+![lorenz-implementation](https://drive.google.com/file/d/1jobzJxJ9JkaJEfMVJglbRzVTAwXJHfcC/view?usp=share_link)
+
