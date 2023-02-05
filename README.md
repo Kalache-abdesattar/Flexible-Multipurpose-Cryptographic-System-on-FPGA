@@ -15,10 +15,19 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 * Key Derivation Function
 
 # Lorenz System Analogue Representation 
-**Circuit Diagram :**
+# Circuit Diagram 
 ![lorenz-diagram-multisim](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz_circuit.PNG)
 
-**Circuit Implementation :**
+
+# Circuit Implementation
 
 ![lorenz-implementation](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/lorenzCircuit.jpg)
 
+# Circuit Behaviour 
+
+## Theoretical Lorenz System Behaviour
+
+### Phase Space Visualization
+
+
+### Time Dependant Visualization
