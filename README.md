@@ -1,6 +1,6 @@
 # Flexible-Multipurpose-Cryptographic-System-on-FPGA
 Design and Implementation of a multipurpose cryptographic accelerator in VHDL
-For detailed information, read our publication 
+For detailed information, read our [publication](https://ijeces.ferit.hr/index.php/ijeces/article/view/1445)
 
 **The proposed design is a GALS architecture (Globally asynchronous locally synchronous) featuring :**
 * a Tunable Keccak Core
