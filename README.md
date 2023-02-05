@@ -21,6 +21,13 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 
 # Circuit Implementation
 
+**Components :**
+* Differential Amplifier [LM358P](https://datasheet.octopart.com/LM358P-Texas-Instruments-datasheet-8220297.pdf)
+* Analog Multiplier [AD633](https://www.analog.com/media/en/technical-documentation/data-sheets/ad633.pdf)
+* Ceramic Capacitors (50nF)
+* Resistors
+
+
 ![lorenz-implementation](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/lorenzCircuit.jpg)
 
 # Circuit Behaviour 
