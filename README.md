@@ -34,3 +34,9 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 ### Time Dependant Visualization
 
 ![lorenz-time](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz-time.png)
+
+## Experimental Lorenz System Behaviour
+
+### Phase Space Visualization
+
+### Time Dependant Visualization
