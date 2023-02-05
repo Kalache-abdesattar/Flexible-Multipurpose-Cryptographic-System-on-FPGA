@@ -19,5 +19,5 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 ![lorenz-diagram-multisim](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz_circuit.PNG)
 
 **Circuit Implementation :**
-![lorenz-implementation](https://drive.google.com/file/d/1jobzJxJ9JkaJEfMVJglbRzVTAwXJHfcC/view?usp=share_link)
+![lorenz-implementation](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/lorenzCircuit.jpg)
 
