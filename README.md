@@ -29,5 +29,8 @@ For detailed information, read our [publication](https://ijeces.ferit.hr/index.p
 
 ### Phase Space Visualization
 
+![lorenz-attractor-phase-space](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz-theoretical.PNG)
 
 ### Time Dependant Visualization
+
+![lorenz-time](https://github.com/Kalache-abdesattar/Flexible-Multipurpose-Cryptographic-System-on-FPGA/blob/main/Analog%20Lorenz%20System/lorenz-time.png)
